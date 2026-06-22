@@ -5,10 +5,10 @@
 El sistema permite gestionar estudiantes, cursos, matrículas y calificaciones mediante una aplicación de escritorio desarrollada en Java Swing. Implementa operaciones CRUD, utilizando almacenamiento en memoria (listas), sin conexión a base de datos.
 
 ## Integrantes
--
+- Denison Josué Castillo Gutierrez 
 - Ana Lucía Vargas
--
--
+- Verónica Isabel Amador Miranda
+- Yariela Matarrita Arias
 
 ## Requisitos para ejecutar
 Java JDK 8 o superior
